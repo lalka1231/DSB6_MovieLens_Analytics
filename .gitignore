@@ -1,0 +1,5 @@
+*.d
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+datasets/ml-latest-small/
